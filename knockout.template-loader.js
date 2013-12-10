@@ -1,6 +1,7 @@
 /**
  * A simple library to load knockout templates asynchronously and apply viewmodel to the templates.
  * Depends on jquery and knockout.js
+ * @author <a href="mailto:md.faisal.rahman@gmail.com">Faisal Rahman</a>
  */
 if (KnockoutTemplateLoader === undefined) {
 	var KnockoutTemplateLoader = {}
